@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make new email",
+      "details": "Lorem ipsum",
+      "complete": true
+    }
+  ]
+}
